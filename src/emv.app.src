@@ -1,0 +1,8 @@
+{application, emv,
+ [
+  {description, "EPS EMV"},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [kernel, stdlib, inets]},
+  {env, []}
+ ]}.
